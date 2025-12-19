@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよならfrequency",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-19T04:39:39.255464Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならfrequency",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_さよならfrequency_HACHI.txt"
+    }
+  ]
+}
